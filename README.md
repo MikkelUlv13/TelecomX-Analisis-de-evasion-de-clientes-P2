@@ -1,4 +1,4 @@
-# 📊 Telecom X – Parte 2: Predicción de Cancelación (Churn)
+# 📊 Telecom X – Parte 2: Predicción y Analisis de clientes-P2.
 
 ## 📣 Historia del Desafío
 ¡Felicidades! 🎉  
